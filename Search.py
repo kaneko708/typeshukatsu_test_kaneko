@@ -11,6 +11,7 @@ def main():
 def serch_index(sorted_array, target_number):
 
     # ここから記述
+    
     left = 0 #探索リストの左端のインデックスを格納
     right = len(sorted_array) - 1 #探索リストの右端のインデックスを格納
     flag = 0 #探索値が見つかった場合に1にする
