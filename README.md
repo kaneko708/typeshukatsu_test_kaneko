@@ -1,1 +1,2 @@
 # typeshukatsu_test_kaneko
+タイプ就活プログラミングテスト解答
